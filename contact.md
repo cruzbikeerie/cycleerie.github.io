@@ -6,7 +6,7 @@ title: Contact Cycle Erie
 <div id="contact">
   <h1 class="pageTitle">Contact Us</h1>
   <div class="contactContent">
-  <h3>Click the button below and enter your email address.
+  <h3>Click the button below or on the right depending on what device you are using. Then enter your email address.
   You will be leaving this web site.</h3>
   
   </div>
