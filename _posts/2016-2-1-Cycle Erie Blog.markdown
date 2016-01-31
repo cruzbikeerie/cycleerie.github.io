@@ -4,7 +4,7 @@ title:  "The New Cycle Erie Blog"
 date:   2016-2-1
 ---
 
-# The rides
+
   The ride will be on Erie County rural low traffic roads. The roads may have up-hill climbs and downhill decents. We may also may  car commute to a local flat bike path. We also might do a bike overnight. Ride to a destination, campout or sleep in a inn or B&B , then ride home the next day. Check out this blog for ride anouncements
 
 # These ride are social rides, not competive.
