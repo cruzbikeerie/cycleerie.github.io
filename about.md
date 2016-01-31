@@ -4,7 +4,7 @@ title: About Cycle Erie
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About Cycle Erie</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
 	<p class="intro">Cycle Erie </p>
 	<p>Cycle Erie was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
