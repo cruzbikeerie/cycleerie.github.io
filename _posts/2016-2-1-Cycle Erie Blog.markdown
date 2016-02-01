@@ -5,7 +5,7 @@ date:   2016-2-1
 ---
 
 
-<iframe src="https://onedrive.live.com/embed?cid=5F2539542290EC54&resid=5F2539542290EC54%21177&authkey=AGc22PatU-fIwLA" width="320" height="180" frameborder="0" scrolling="no"></iframe>
+<center><iframe src="https://onedrive.live.com/embed?cid=5F2539542290EC54&resid=5F2539542290EC54%21177&authkey=AGc22PatU-fIwLA" width="320" height="180" frameborder="0" scrolling="no"></iframe></center>
 
 
 #Welcome Erie Cyclists
