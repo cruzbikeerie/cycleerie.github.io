@@ -15,8 +15,7 @@ With today's Technology, GPS's, Cell phone, and computer you can print out or st
 
 
 ## We need a Social Network for Erie Cyclists.
-We need a place where Erie Cyclist came meet other cyclist with the same abiltiies. If you want to train for a race,or just want to do a social ride out on Erie Counties Roads. I myself am a social rider who is slow compared to a racer, but I do enjoy  doing up-hill climbs with fast descents. We need some kind of forum where Cyclist can plan rides and  people would show up who also like to ride.
-<div style="float:left"><iframe src="https://onedrive.live.com/embed?cid=5F2539542290EC54&resid=5F2539542290EC54%21180&authkey=ANwhhxBU9VRBamI" width="320" height="240" frameborder="0" scrolling="no"></iframe></div>
+We need a place where Erie Cyclist came meet other cyclist with the same abiltiies.<div style="float:left"><iframe src="https://onedrive.live.com/embed?cid=5F2539542290EC54&resid=5F2539542290EC54%21180&authkey=ANwhhxBU9VRBamI" width="320" height="240" frameborder="0" scrolling="no"></iframe></div> If you want to train for a race,or just want to do a social ride out on Erie Counties Roads. I myself am a social rider who is slow compared to a racer, but I do enjoy  doing up-hill climbs with fast descents. We need some kind of forum where Cyclist can plan rides and  people would show up who also like to ride.
 I myself have a group of 3 or 4 friends who I go riding with. Are there any other cyclist who would like to join me and my friends for a bike ride.
 
 ##Interesting Cycling Storys
