@@ -1,9 +1,7 @@
 ---
 layout: post
-
-title: "test"
-
-date: 2016-22-10
+title:  "The New Cycle Erie Blog"
+date:   2016-2-1
 ---
 
 
