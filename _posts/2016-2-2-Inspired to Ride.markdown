@@ -5,6 +5,8 @@ date:   2016-2-2
 ---
 
 
+![enter image description here](http://i0.wp.com/transambikerace.com/wp-content/uploads/2015/07/TransAm2016FlyerWeb.png)
+
 #4233 Miles. 10 States. Coast To Coast. Self-Supported.
 
 [http://watch.inspiredtoride.it/](http://watch.inspiredtoride.it/)
@@ -19,9 +21,3 @@ date:   2016-2-2
  T
 
 [The Official Race Web site.](http://transambikerace.com/)                       
-
-##Below is a quote from the Movie Web site.
-
-> INSPIRED TO RIDE follows a handful of cyclists as they race unsupported in the inaugural year of The Trans Am Bike Race. It's the antithesis to events like Tour de France and Race Across America. There are no teams, no support vehicles, no special jerseys and not a dime in prize money. 
-
->As they battle lack of sleep, injuries and spirited competition, INSPIRED TO RIDE takes you on an invigorating road trip — amidst the jaw-dropping beauty of the TransAmerica Trail with its varied landscapes, intriguing locals and found stories which dot this path of discovery.
