@@ -3,7 +3,7 @@ layout: post
 title:  "Inspired to Ride"
 date:   2016-2-2
 ---
-#4233 Miles. 10 States. Coast To Coast. Self-Supported.
+
 
 [http://watch.inspiredtoride.it/](http://watch.inspiredtoride.it/)
 
