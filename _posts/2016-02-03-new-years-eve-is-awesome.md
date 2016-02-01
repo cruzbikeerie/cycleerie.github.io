@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Inspire to ride"
-date:   2016-02-03
+date:   2016-02-01
 ---
-
-
 
 #test today
