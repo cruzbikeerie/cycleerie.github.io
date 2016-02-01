@@ -15,10 +15,10 @@ With today's Technology, GPS's, Cell phone, and computer you can print out or st
 
 ## We need a Social Network for Erie Cyclist.
 We need a place where Erie Cyclist came meet other cyclist with the same abiltiies. If you want to train for a race,or just want to do a social ride out on Erie Counties Roads. I myself am a social rider who is slow compared to a racer, but I do enjoy  doing up-hill climbs with fast descents. We need some kind of forum where Cyclist can plan rides and  people would show up who also like to ride.
-I myself have a group of 3 or 4 friends who I go riding with. Are there any other cyclist who would like to join me and my friend for a bike ride.
+I myself have a group of 3 or 4 friends who I go riding with. Are there any other cyclist who would like to join me and my friends for a bike ride.
 
 ##Interesting Cycling Storys
-I also plan to  document my cycling adventures. I will blogging (writing) story about some bicycle ride that I do. I also will be adding pictures, and or You Tube video to the blog.
+I also plan to  document my cycling adventures. I will blogging (writing) story about some bicycle ride that I do. I also will be adding pictures, and or You Tube videos to the blog.
 
 ##About this web site (cost)
 I am keeping the cost of this web site and cheap as possible. The web site is hosted on [Git-Hub](https://github.com/) which is free.
