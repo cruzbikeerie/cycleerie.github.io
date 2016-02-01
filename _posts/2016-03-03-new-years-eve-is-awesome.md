@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The New Cycle Erie Blog"
+title:  "Inspire to ride"
 date:   2016-02-01
 ---
 
