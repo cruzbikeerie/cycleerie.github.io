@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The New Cycle Erie Blog"
+title:  "Inspire to Ride Movie"
 date:   2016-2-1
 ---
 
-test
+
 
 ![enter image description here](http://i0.wp.com/transambikerace.com/wp-content/uploads/2015/07/TransAm2016FlyerWeb.png)
 
