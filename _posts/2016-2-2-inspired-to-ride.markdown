@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Inspire to Ride"
-date:   2016-02-03
+title:  "The New Cycle Erie Blog"
+date:   2016-2-1
 ---
 
 test
