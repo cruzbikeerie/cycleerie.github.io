@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inspire to ride"
+title:  "Inspire to ride (The Movie)"
 date:   2016-02-01
 ---
 
