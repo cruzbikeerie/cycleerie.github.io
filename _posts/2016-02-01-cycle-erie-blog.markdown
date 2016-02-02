@@ -11,6 +11,7 @@ date:   2016-02-01
 #Welcome Erie Cyclist
 
 ##Reason for creating this blog, Free Bicycle Rides
+## We need a Social Network for Erie Cyclists.
 The cost of a one day bicycle has been climbing. I know that many bike tours support charities, and other's goes in somebody's pocket. But if you want to go for a ride every weekend and paying 35 dollars or more is getting kind of expensive just to do a ride with other cyclist and maybe get a meal. If you are a couple your looking at 70.00 or more. If you have a wife and  two kids, you looking at paying out 140 dollars or more. This is a lot when you have a family to support or your on a fix income(Baby Boomers). Lets make Bicycle rides free and open to everyone.
 With today's Technology, GPS's, Cell phone, and computer you can print out or store on your cell phone the maps and cue sheets. This would be a very small cost to you when you already have the devices.
 
