@@ -6,10 +6,9 @@ title: Contact Cycle Erie
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">If you want to join us for a ride, you can send me your email address</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to use this contact form</p>
-  </div>
+    <p class="intro">If you want to join us for a ride,or want some more information you can send me your email address</p>
+    <p class="intro">If you want I can send you email about upcoming rides</p>
+   </div>
   <form action="http://formspree.io/getinfo@cycleerie.org" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
