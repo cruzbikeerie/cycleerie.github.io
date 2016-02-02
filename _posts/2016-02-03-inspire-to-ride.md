@@ -6,7 +6,7 @@ date:   2016-02-01
 
 ![enter image description here](http://i0.wp.com/transambikerace.com/wp-content/uploads/2015/07/TransAm2016FlyerWeb.png)
 
-#4233 Miles. 10 States. Coast To Coast. Self-Supported.
+# 4233 Miles. 10 States. Coast To Coast. Self-Supported.
 
 
 
