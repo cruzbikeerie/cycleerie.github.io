@@ -6,8 +6,8 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: kramdown
-rouge: pygments
+markdown: redcarpet
+highlighter: pygments
 gems: [jekyll-paginate]
 paginate: 5
 
