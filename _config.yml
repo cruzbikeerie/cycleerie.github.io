@@ -18,8 +18,7 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
-  - title: Index of Posts
-   url: /posts_index
+ 
 
 social:
    github: brianmaierjr
