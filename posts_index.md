@@ -1,6 +1,6 @@
 ---
 layout: default
-title: index of posts
+title: index_of_posts
 ---
 
 # Under Construction
