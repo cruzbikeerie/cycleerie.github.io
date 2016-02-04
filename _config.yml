@@ -19,7 +19,7 @@ navigation:
  - title: Contact
    url: /contact
  - title: Posts Index
-   url: /post_index  
+   url: /posts_index  
  
 
 social:
