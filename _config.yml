@@ -19,7 +19,9 @@ navigation:
  - title: Contact
    url: /contact
  - title: Posts Index
-   url: /posts_index  
+   url: /posts_index 
+ - title: Week Long Supported Bicycle Tours
+   url: /week_long_bicycle_tours  
  
 
 social:
