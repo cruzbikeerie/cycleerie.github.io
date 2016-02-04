@@ -4,4 +4,6 @@ title: posts_index
 ---
 
 # Under Construction
+
+{{ site.navigation }}
  
