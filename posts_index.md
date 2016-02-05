@@ -5,6 +5,7 @@ title: posts_index
 
 # Under Construction
   {{ posts.title }}
+   {{ posts.date }}
   post title
 
 
