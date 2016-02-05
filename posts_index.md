@@ -5,7 +5,7 @@ title: posts_index
 
 # Under Construction
 
-  {{ site.navigation }}
+
    {% for product in site.categories.all_posts %}
   <ul>
   {{ page.title }}
