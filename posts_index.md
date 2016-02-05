@@ -6,8 +6,9 @@ title: posts_index
 # Under Construction
 
   {{ site.navigation }}
-   {% for product in site.data.all_posts %}
+   {% for product in site.categories.all_posts %}
   <ul>
+  {{all.post.title}}
   <a href="{{ site.ur1 }}">Link</a>
      Jim
   </ul>
