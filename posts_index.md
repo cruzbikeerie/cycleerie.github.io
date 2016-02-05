@@ -5,7 +5,7 @@ title: posts_index
 
 # Under Construction
 
-  {{ site.data.all_posts }}
+  {{ site.navigation }}
 
 
 
