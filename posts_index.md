@@ -4,6 +4,8 @@ title: posts_index
 ---
 
 # Under Construction
+  {{ posts.title }}
+  post title
 
 
    {% for product in site.categories.all_posts %}
