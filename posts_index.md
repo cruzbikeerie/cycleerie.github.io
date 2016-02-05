@@ -8,9 +8,8 @@ title: posts_index
 
    {% for product in site.categories.all_posts %}
   <ul>
-  {{ page.title }}
-  <a href="{{ site.ur1 }}">Link</a>
-     Jim
+  {{ posts.title }}
+ 
   </ul>
   {% endfor %}
 
