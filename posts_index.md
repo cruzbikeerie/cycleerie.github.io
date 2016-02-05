@@ -5,7 +5,7 @@ title: posts_index
 
 # Under Construction
 
-paginator.posts={{ paginator.posts }}
+paginator.posts  {{ paginator.posts }}
 
 <div class="all_posts" id="posts">
   <h1 class="pageTitle">All Posts</h1>
