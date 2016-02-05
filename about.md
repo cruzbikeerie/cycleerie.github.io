@@ -3,14 +3,9 @@ layout: default
 title: About Cycle Erie
 ---
 
-<div class="post">
-	<h1 class="pageTitle">About Cycle Erie</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Cycle Erie </p>
-	<p>Cycle Erie was created to be a social network for cyclist's in the Erie area. Some of us are Erie Outing Club members,other may be just Erie Cyclist interested in group cycling. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-	<h2>Make Cycling Friends</h2>
-	<h2>Meet people who are active in the Cycling Community</h2>
-  	</ul>
-</div>
+# Welcome Erie Outing Club Member and Erie Cyclist.
+ This site was created by Erie Outing Club Members. The Erie Outing Club does a variety of sports from Backpacking, Hiking, Kayaking, Bicycle riding, etc. But Cycle Erie will be special interest group dedicated to  Cycling in Erie County ,surrounding counties and states. And it will be open to Erie Outing Club member and non-members who are interested in cycling. The average age for the group is 50 plus, but younger cyclist are welcome to.
+
+# Bicycle Touring
+The main focus of this blog will be on Bicycle Touring. This will include local one day rides (free or for a fee). Bicycle Overnights which could include bike packing (frame mounted touring packs, bicycle touring (racks and Panniers). You can stay in a Inn, or camp under the stars. And Week long supported camping tours. 
+	
