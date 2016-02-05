@@ -8,7 +8,7 @@ title: posts_index
   {% for product in site.categories.all_posts %}
   <ul>
   {{ posts.date }}
-   ###test
+   ### test
    </ul>
   {% endfor %}
 
