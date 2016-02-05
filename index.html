@@ -5,6 +5,7 @@ title: Cycle Erie
 
 <div class="home" id="home">
   <h1 class="pageTitle">Recent Posts</h1>
+  {{ post.title }}
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
