@@ -8,7 +8,7 @@ title: posts_index
   {{ site.navigation }}
   <ul>
    {% for product in site.navigation %}
-  {{ site.navigation }}
+   ## Jim
    {% endfor %}
   </ul>
 
