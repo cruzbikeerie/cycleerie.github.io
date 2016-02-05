@@ -8,7 +8,7 @@ title: posts_index
   {{ site.navigation }}
   
   {% for in jim site.date.all_post %}
-  
+  {{ site.date.all_post }}
   {% endfor %}
 
 
