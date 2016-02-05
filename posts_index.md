@@ -13,6 +13,7 @@ title: posts_index
     {% for post in data.all-posts %}
       Hello
     {% endif %}
+    </ul>
   </div>
 </div>
 
