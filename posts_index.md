@@ -9,7 +9,7 @@ title: posts_index
   site date
   {% for product in site.data.all_posts %}
   <ul>
-  {{  data.title  }}
+  {{  site.data.all_posts.title  }}
    ## test
    </ul>
   {% endfor %}
