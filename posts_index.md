@@ -4,8 +4,8 @@ title: posts_index
 ---
 
 # Under Construction
-  
-  {% for product in site.categories.all_posts %}
+  {{ site.data.all_posts }}
+  {% for product in site.data.all_posts %}
   <ul>
   {{ posts.date }}
    ### test
