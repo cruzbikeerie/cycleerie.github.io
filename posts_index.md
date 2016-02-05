@@ -6,7 +6,7 @@ title: posts_index
 # Under Construction
 
   {{ site.navigation }}
-   {% for product in site.navigation %}
+   {% for product in site.data.all_posts %}
   <ul>
      Jim
   </ul>
