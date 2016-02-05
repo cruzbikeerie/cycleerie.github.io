@@ -6,10 +6,11 @@ title: posts_index
 # Under Construction
 
   {{ site.navigation }}
-  
-  {% for in jim site.date.all_post %}
+  <ul>
+   {% for product in site.navigation %}
   {{ site.navigation }}
-  {% endfor %}
+   {% endfor %}
+  </ul>
 
 
 
