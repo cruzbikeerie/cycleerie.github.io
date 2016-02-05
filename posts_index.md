@@ -5,12 +5,12 @@ title: posts_index
 
 # Under Construction
 
-paginator.posts  {{ paginator.posts }}
+  {{ data.all-posts }}
 
 <div class="all_posts" id="posts">
   <h1 class="pageTitle">All Posts</h1>
   <ul>
-    {% for post in paginator.posts %}
+    {% for post in data.all-posts %}
       Hello
     {% endif %}
   </div>
