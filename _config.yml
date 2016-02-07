@@ -18,8 +18,8 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
- - title: Posts Index
-   url: /posts_index 
+ - title: Local Ride and Events
+   url: /local_events 
  - title: Week Long Tours
    url: /week_long_bicycle_tours  
  
