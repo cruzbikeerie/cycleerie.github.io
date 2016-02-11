@@ -10,7 +10,7 @@ categories: all_posts
 
 
 
-{% youtube oHg5SJYRHA0 %}
+
 
 
 
