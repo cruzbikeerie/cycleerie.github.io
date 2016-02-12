@@ -3,6 +3,7 @@ layout: post
 title:  "Inspire to ride (The Movie)"
 date:   2016-02-01
 categories: all_posts
+meta: This is about a movie about a race on the Trans-Am Trail that is self-supported
 ---
 
 ![enter image description here](http://i0.wp.com/transambikerace.com/wp-content/uploads/2015/07/TransAm2016FlyerWeb.png)
