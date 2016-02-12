@@ -10,6 +10,7 @@ title: posts_index
 {% for pages in site.pages %}
  {% if pages.type == 'posts' %}
    <li>
+   <p>1</p>
     {{ pages.title }}
    </li>
  {% endif %}
