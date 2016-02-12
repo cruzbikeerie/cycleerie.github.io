@@ -4,7 +4,8 @@ title: posts_index
 ---
 
 # ALL Posts
-{% include post_navs %}
+{% include post_navs.html %}
+  
 
 <ul>
 {% for post in site.posts %}
