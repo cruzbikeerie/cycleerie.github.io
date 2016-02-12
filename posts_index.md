@@ -8,9 +8,9 @@ title: posts_index
 <nav>
 <ul>
 <li><a href="">All Posts</a>
-<a href="">Bike News&nbsp;&nbsp;</a>s
-<a href="">Bike Rides&nbsp;&nbsp;</a>
-<a href="">Bike Storie&nbsp;&nbsp;</a>s</li>
+<a href="">Bike News&nbsp;&nbsp;&nbsp;</a>
+<a href="">Bike Rides&nbsp;&nbsp;&nbsp;</a>
+<a href="">Bike Storie&nbsp;&nbsp;&nbsp;</a></li>
 </ul>
 </nav>
 <ul>
