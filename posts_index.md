@@ -7,7 +7,7 @@ title: posts_index
 {% include post_navs.html %}
 
 <ul>
-{% for posts in site.page %}
+{% for posts in site.pages %}
  {% if post.type == 'all_posts'%}
   <li>
       {{ posts.title }}
