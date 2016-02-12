@@ -8,7 +8,7 @@ title: posts_index
 
 <ul>
 {% for posts in site.pages %}
- {% if post.type == 'all_posts' %}
+ {% if post.type == 'posts' %}
   <li>
       {{ posts.title }}
    </li>
