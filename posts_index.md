@@ -7,10 +7,10 @@ title: posts_index
 {% include post_navs.html %}
 
 <ul>
-{% for posts in site.pages %}
- {% if post.type == 'posts' %}
-  <li>
-      {{ posts.title }}
+{% for pages in site.pages %}
+ {% if pages.type == 'posts' %}
+   <li>
+    {{ pages.title }}
    </li>
  {% endif %}
 {% endfor %}
