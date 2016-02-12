@@ -3,6 +3,7 @@ layout: post
 title:  "The New Cycle Erie Blog"
 date:   2016-02-01
 categories: all_posts
+meta: This is about the new Cycle Erie Blog
 ---
 
 
