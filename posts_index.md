@@ -3,12 +3,12 @@ layout: default
 title: posts_index
 ---
 
-# ALL Post
+# ALL Posts
 <ul>
 {% for post in site.posts %}
 <li>
-<a href=""></a>
-<p>1</p>
+<a href="">{{ post.title }}</a>
+<p>{{post.meta}}</p>
 </li>
 {% endfor %}
 </ul>
