@@ -7,10 +7,10 @@ title: posts_index
 
 <nav>
 <ul>
-<li><a href=""></a>All Posts</li>
-<li><a href=""></a>Bike News</li>
-<li><a href=""></a>Bike Rides</li>
-<li><a href=""></a>Bike Stories</li>
+<li><a href=""></a>All Posts
+<a href=""></a>Bike News
+<a href=""></a>Bike Rides
+<a href=""></a>Bike Stories</li>
 </ul>
 </nav>
 <ul>
