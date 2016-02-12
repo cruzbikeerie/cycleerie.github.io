@@ -9,9 +9,11 @@ title: posts_index
 <ul>
 {% for posts in site.page %}
  {% if post.type == 'all_posts'%}
- <li>{{ posts.title }}</li>
+  <li>
+      {{ posts.title }}
+   </li>
  {% endif %}
-{% endif %}
+{% endfor %}
 </ul>
   
 
