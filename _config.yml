@@ -1,7 +1,7 @@
 title: Cycle Erie
 description: Cycling on Erie County Roads and Trails
 
-url: http://cycleerie.org/
+url: http://cruzbikeerie.github.io/cycleerie.github.io.
 baseurl: "cycleerie.github.io"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
